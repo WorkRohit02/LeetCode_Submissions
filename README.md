@@ -65,6 +65,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +74,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
