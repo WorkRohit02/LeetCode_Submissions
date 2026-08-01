@@ -65,6 +65,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
@@ -87,5 +88,6 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
