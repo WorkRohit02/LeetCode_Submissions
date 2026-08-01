@@ -65,6 +65,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0704-binary-search) |
@@ -75,6 +76,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -82,4 +84,8 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
