@@ -65,6 +65,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0162-find-peak-element) |
@@ -90,4 +91,8 @@ Happy Coding! 🚀
 | ------- |
 | [0056-merge-intervals](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
