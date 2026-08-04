@@ -79,6 +79,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -95,4 +96,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0041-first-missing-positive) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
