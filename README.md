@@ -93,15 +93,18 @@ Happy Coding! 🚀
 | ------- |
 | [0056-merge-intervals](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
