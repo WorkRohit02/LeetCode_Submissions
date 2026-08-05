@@ -2,26 +2,24 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         
-        unordered_map<char, int> mp ;
-
-        if(s.size() != t.size()){
-            return false ;
+        if (s.length() != t.length()) {
+            return false;
         }
         
-        for(char c : s){
-            mp[c]++ ;
+        int count[26] = {0};
+        
+        for (int i = 0; i < s.length(); i++) {
+            count[s[i] - 'a']++;
+            count[t[i] - 'a']--;
         }
-
-        for(char c : t){
-            if(mp[c] == 0){
-                return false ;
-            }
-            else{
-                mp[c]-- ;
+        
+        for (int i = 0; i < 26; i++) {
+            if (count[i] != 0) {
+                return false;
             }
         }
-
-        return true ;
+        
+        return true;
 
     }
 };
