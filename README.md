@@ -78,6 +78,7 @@ Happy Coding! 🚀
 | [0050-powx-n](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Happy Coding! 🚀
 | ------- |
 | [0050-powx-n](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
