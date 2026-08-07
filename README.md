@@ -75,6 +75,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -109,4 +110,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
