@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +133,5 @@ Happy Coding! 🚀
 | ------- |
 | [0206-reverse-linked-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
