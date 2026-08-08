@@ -75,6 +75,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0231-power-of-two) |
@@ -121,6 +122,7 @@ Happy Coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0050-powx-n) |
@@ -136,6 +138,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0025-reverse-nodes-in-k-group) |
