@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -103,6 +104,7 @@ Happy Coding! 🚀
 | [0056-merge-intervals](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
@@ -147,6 +149,7 @@ Happy Coding! 🚀
 | [0092-reverse-linked-list-ii](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/1669-merge-in-between-linked-lists) |
@@ -159,6 +162,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,6 +171,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
