@@ -116,6 +116,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 ## Trie
@@ -176,4 +177,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
