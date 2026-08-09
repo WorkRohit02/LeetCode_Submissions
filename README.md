@@ -72,6 +72,7 @@ Happy Coding! 🚀
 | [0162-find-peak-element](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -201,4 +203,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
