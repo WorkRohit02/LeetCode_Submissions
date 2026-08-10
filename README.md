@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | [0041-first-missing-positive](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0503-next-greater-element-ii) |
@@ -184,6 +185,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
@@ -208,6 +210,7 @@ Happy Coding! 🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
 ## Database
@@ -222,4 +225,8 @@ Happy Coding! 🚀
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/1757-recyclable-and-low-fat-products) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
