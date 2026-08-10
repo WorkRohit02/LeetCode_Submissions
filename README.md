@@ -187,6 +187,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
@@ -207,6 +208,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -229,4 +231,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
