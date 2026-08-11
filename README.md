@@ -186,6 +186,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0503-next-greater-element-ii) |
@@ -235,4 +236,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
