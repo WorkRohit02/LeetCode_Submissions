@@ -249,6 +249,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +265,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -271,4 +274,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
