@@ -255,6 +255,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -264,6 +265,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -294,4 +297,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
