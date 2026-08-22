@@ -125,6 +125,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
@@ -254,6 +255,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -264,6 +266,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -274,6 +277,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
 ## Backtracking
@@ -281,6 +285,7 @@ Happy Coding! 🚀
 | ------- |
 | [0022-generate-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0077-combinations) |
+| [0257-binary-tree-paths](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
