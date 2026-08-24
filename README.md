@@ -64,6 +64,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -100,6 +101,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0704-binary-search) |
@@ -170,6 +172,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
