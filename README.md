@@ -78,6 +78,7 @@ Happy Coding! 🚀
 | [0503-next-greater-element-ii](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
@@ -215,6 +216,7 @@ Happy Coding! 🚀
 | ------- |
 | [0022-generate-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
