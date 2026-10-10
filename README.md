@@ -70,6 +70,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0134-gas-station) |
@@ -216,6 +217,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -319,4 +321,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
