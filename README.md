@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0326-power-of-three) |
@@ -218,6 +219,7 @@ Happy Coding! 🚀
 | ------- |
 | [0022-generate-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -325,4 +327,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
