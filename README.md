@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0231-power-of-two) |
@@ -218,6 +219,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0198-house-robber) |
@@ -331,4 +333,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
