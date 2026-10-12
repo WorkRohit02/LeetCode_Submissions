@@ -133,6 +133,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
@@ -147,6 +148,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0231-power-of-two) |
@@ -220,6 +222,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
@@ -231,6 +234,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 ## Design
