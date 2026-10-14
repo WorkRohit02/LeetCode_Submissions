@@ -275,6 +275,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -286,6 +287,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -297,6 +299,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -313,6 +316,7 @@ Happy Coding! 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/WorkRohit02/LeetCode_Submissions/tree/master/0199-binary-tree-right-side-view) |
 ## DP on Trees
